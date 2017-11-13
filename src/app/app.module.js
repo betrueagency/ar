@@ -1,0 +1,1 @@
+angular.module('betrue.ar',['ngMaterial','angular-spinkit']);
