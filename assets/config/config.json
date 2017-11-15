@@ -1,0 +1,20 @@
+{
+  "models": [
+    {
+      "url":"assets/3d/Betrue_LOGO3D.dae",
+      "title":"betrue logo",
+      "isAnimated":false,
+      "rotateX":0,
+      "rotateY":0,
+      "rotateZ":0
+    },
+    {
+      "url":"assets/3d/StromTrooper.dae",
+      "title":"Stormtrooper ",
+      "isAnimated":true,
+      "rotateX":0,
+      "rotateY":0,
+      "rotateZ":90
+    }
+  ]
+}
