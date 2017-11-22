@@ -11,6 +11,7 @@
     {
       "url":"assets/3d/StromTrooper.dae",
       "title":"Stormtrooper ",
+      "soundUrl" : "assets/mp3/song52.mp3",
       "isAnimated":true,
       "rotateX":0,
       "rotateY":0,
